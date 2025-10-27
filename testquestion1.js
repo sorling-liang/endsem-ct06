@@ -12,4 +12,6 @@ function setup() {
 function draw() {
     fill("limegreen");
     circle(width/2, height/2, 50);
+
+    xpos = xpos + speed;
 }
