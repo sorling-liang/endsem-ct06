@@ -4,5 +4,5 @@ function setup() {
     textSize(20);
     textAlign(CENTER, CENTER);
     fill("pink");
-    text("hi", width/2, 50);
+    text("hi", width/2, 150);
 }
