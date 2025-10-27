@@ -8,6 +8,6 @@ function setup() {
     fill("pink");
 
     for ( let index=0; index< pokemons.length; index++) {
-        text( pl, width/2, 50);
+        text( pokemons[index], width/2, 50);
     }
 }
