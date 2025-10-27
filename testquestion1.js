@@ -11,5 +11,5 @@ function setup() {
 
 function draw() {
     fill("limegreen");
-    circle(50, 50, 50);
+    circle(width/2, height/2, 50);
 }
