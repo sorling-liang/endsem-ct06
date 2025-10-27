@@ -4,7 +4,7 @@ let speed;
 
 function setup() {
     createCanvas(400, 600);
-    background("light_blue");
+    background("lightblue");
     speed = 5;
 }
 
