@@ -2,7 +2,7 @@
 let xpos;
 let speed;
 
-let blue = "blue";
+let blue = "lightblue";
 
 function setup() {
     createCanvas(400, 600);
