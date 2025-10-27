@@ -1,3 +1,4 @@
+let pokemons = ["one", "two", "three"];
 
 function setup() {
     createCanvas(200, 300);
