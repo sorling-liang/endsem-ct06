@@ -11,6 +11,7 @@ function setup() {
 }
 
 function draw() {
+    background("lightblue");
     fill("limegreen");
     circle(xpos, height/2, 50);
 
