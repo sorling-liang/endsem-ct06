@@ -16,4 +16,11 @@ function draw() {
     circle(xpos, height/2, 50);
 
     xpos = xpos + speed;
+
+    if (xpos > width) {
+        speed = speed * -1;
+    }
+    if (xpos < 0) {
+        speed = s
+    }
 }
