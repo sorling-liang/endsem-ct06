@@ -6,5 +6,8 @@ function setup() {
     textSize(20);
     textAlign(CENTER, CENTER);
     fill("pink");
-    text("hi", width/2, 50);
+
+    for ( let index=0; index< pokemons.length; index++) {
+        text( pl, width/2, 50);
+    }
 }
